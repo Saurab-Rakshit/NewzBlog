@@ -3,6 +3,8 @@ import { RxCross2 } from "react-icons/rx";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { useState } from "react";
 
+// Using the dhiwise design to build
+
 const Header = () => {
   const [state, setState] = useState({
     searchPopUp: false,
